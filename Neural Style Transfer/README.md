@@ -1,9 +1,9 @@
 # DL project description
 Style transfer as a process of modifying the style of an image while still preserving its content. Given an input image and a style image, we can compute an output image with the original content but a new style.
 
-Include your architecture image:
+Architecture image:
 <p align="center">
-<img src="img/sample.png" alt>
+<img src="img/sample.jpeg" alt>
 
 </p>
 <p align="center">
